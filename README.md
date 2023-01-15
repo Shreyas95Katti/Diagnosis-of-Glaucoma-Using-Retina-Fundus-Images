@@ -5,4 +5,8 @@ A project accomplished successfully while my team and I were research interns wi
 
 We established a 0.4 threshold after checking with a few doctors and other web sources. Any cup to disc ratio less than 0.4 is considered a healthy eye, and the patient is classed as having Glaucoma or not depending on this characteristic.
 
+The dataset can be accessed from:
+https://riadd.grand-challenge.org/download-all-classes/
+https://drive.google.com/file/d/1teYi_smpLiNZNJcTWdxXgKKLW2fkUQr4/view
+
 ## Thank You
